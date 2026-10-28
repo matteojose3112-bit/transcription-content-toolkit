@@ -1,0 +1,19 @@
+1
+00:00:00,000 --> 00:00:03,500
+Thanks for joining. Today, we'll review the launch checklist.
+
+2
+00:00:03,500 --> 00:00:07,000
+Great. The draft is ready, but I want to confirm the delivery date.
+
+3
+00:00:07,000 --> 00:00:10,500
+The target is Friday, pending final approval.
+
+4
+00:00:10,500 --> 00:00:14,000
+Understood. I'll flag the two items that still need review.
+
+5
+00:00:14,000 --> 00:00:17,500
+Perfect. Let's confirm those before we send the final version.

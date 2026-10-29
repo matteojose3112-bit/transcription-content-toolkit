@@ -2,7 +2,7 @@
 
 A practical toolkit for turning audio and video into clear written deliverables: transcripts, subtitles, captions, and voiceover-ready scripts.
 
-> **Status:** Usable service MVP with templates, fictional formatting demonstrations, quality checklists, and a Python caption-file validator.
+> **Status:** Usable service MVP with templates, fictional formatting examples, a Python caption-file validator, automated tests, and a prepared synthetic-voice workflow demonstration.
 
 ## Start here
 
@@ -25,11 +25,17 @@ python tools/validate_captions.py examples/sample-captions.srt examples/sample-c
 python -m unittest discover -s tests -v
 ```
 
-A structural pass does not prove transcription accuracy or exact synchronization with the recording; human review against the source media is still required.
+A structural pass does not prove transcription accuracy or exact synchronization with a recording; human review against the source media is still required.
+
+## Portfolio demonstration
+
+A separate portfolio pack includes an original synthetic-voice WAV, matching speaker-labeled transcript, SRT captions, and WebVTT captions. The dialogue was written first and then rendered with text-to-speech; this demonstrates delivery formats and a workflow, **not** blind transcription accuracy on naturally recorded audio. The accompanying fictional transcript PDF also uses illustrative timestamps.
+
+Before presenting the service as proven on real-world audio, complete and review a sample transcribed from a naturally spoken, public-domain or explicitly authorized recording. Verify every word, speaker label, and caption boundary against the actual media.
 
 ## Services and marketplace setup
 
-See [starter service packages](SERVICE_PACKAGES.md) for scope, turnaround, and intake requirements, and the [Fiverr/Upwork listing draft](GIG_LISTING_DRAFT.md) for title, description, suggested pricing, FAQ, and buyer requirements.
+See [starter service packages](SERVICE_PACKAGES.md) for scope, turnaround, and intake requirements, and the [Fiverr/Upwork listing draft](GIG_LISTING_DRAFT.md) for title, description, suggested pricing, FAQ, and buyer requirements. Listing copy and prices are drafts; the gigs are not published by this repository.
 
 ## Quality principles
 
@@ -42,7 +48,7 @@ See [starter service packages](SERVICE_PACKAGES.md) for scope, turnaround, and i
 
 ## Current limitations
 
-The existing transcript examples are fictional formatting demonstrations, not transcripts of real recordings. A portfolio-ready service sample still needs an end-to-end review against a permitted source recording. Automated checks are structural only.
+The current repository examples are fictional formatting demonstrations. The separate synthetic-voice sample uses a known script, so it is not a real-world transcription accuracy test. Automated checks are structural only. A real-media end-to-end sample and marketplace publication remain open launch tasks.
 
 ## Quality checks
 

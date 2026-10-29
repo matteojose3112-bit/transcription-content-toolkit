@@ -9,13 +9,13 @@
 - [x] Add multi-speaker transcript demonstration.
 - [x] Add verbatim vs. clean transcript comparison.
 - [x] Add final delivery checklist.
+- [x] Add short-form SRT and WebVTT caption examples.
 - [x] Update README to show how to use the toolkit.
 
 ## Phase 2 — Improve sample quality
-- [ ] Review SRT and WebVTT syntax and validate cue structure.
-- [ ] Add a short-form caption sample with concise line breaks.
-- [ ] Add a longer sample transcript and clearly label illustrative timestamps.
+- [ ] Validate SRT and WebVTT cue structure and timing format.
 - [ ] Add a sample delivery folder with consistent filenames and a delivery note.
+- [ ] Create one polished sample bundle using a permitted source recording.
 
 ## Phase 3 — Service readiness
 - [ ] Define simple service packages and clear scope boundaries.

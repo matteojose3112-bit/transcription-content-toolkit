@@ -9,6 +9,7 @@
 - [x] Add a Python validator for SRT/WebVTT structure and timing conflicts.
 - [x] Add unit tests and a GitHub Actions workflow.
 - [x] Define starter service packages and scope boundaries.
+- [x] Draft Fiverr/Upwork gig title, description, package pricing, FAQ, and buyer requirements.
 
 ## Phase 2 — Portfolio-ready evidence
 - [ ] Select a public-domain or client-authorized short recording.
@@ -16,6 +17,8 @@
 - [ ] Verify wording, speakers, timing, and caption line breaks against the media.
 - [ ] Add a sample delivery folder with consistent filenames and a delivery note.
 - [ ] Capture portfolio images only from permitted materials.
+- [ ] Confirm final introductory prices, revisions, and delivery times on each marketplace.
+- [ ] Publish only after the real-media sample has been reviewed.
 
 ## Scope guardrails
 - Never invent unclear words or claim a fictional sample was transcribed from real media.

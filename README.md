@@ -27,16 +27,9 @@ python -m unittest discover -s tests -v
 
 A structural pass does not prove transcription accuracy or exact synchronization with the recording; human review against the source media is still required.
 
-## Services this toolkit supports
+## Services and marketplace setup
 
-- Verbatim or clean transcription
-- Speaker labels and timestamps
-- SRT subtitles and WebVTT captions
-- Proofreading and transcript formatting
-- Voiceover / narration script formatting
-- Clear delivery packaging and quality checks
-
-See [starter service packages](SERVICE_PACKAGES.md) for proposed scope, turnaround, and intake requirements.
+See [starter service packages](SERVICE_PACKAGES.md) for scope, turnaround, and intake requirements, and the [Fiverr/Upwork listing draft](GIG_LISTING_DRAFT.md) for title, description, suggested pricing, FAQ, and buyer requirements.
 
 ## Quality principles
 

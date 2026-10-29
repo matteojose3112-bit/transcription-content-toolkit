@@ -1,28 +1,24 @@
 # Roadmap
 
-## Phase 1 — Usable MVP
+## Phase 1 — Usable workflow and validation
 - [x] Define scope and quality principles.
-- [x] Add transcript style guide and voiceover script template.
-- [x] Add fictional transcript and basic SRT / WebVTT samples.
-- [x] Add quality-control checklist.
-- [x] Add client intake questionnaire.
-- [x] Add multi-speaker transcript demonstration.
-- [x] Add verbatim vs. clean transcript comparison.
-- [x] Add final delivery checklist.
-- [x] Add short-form SRT and WebVTT caption examples.
-- [x] Update README to show how to use the toolkit.
+- [x] Add transcript style guide, client intake questionnaire, and voiceover script template.
+- [x] Add fictional transcript, multi-speaker example, and verbatim-vs-clean comparison.
+- [x] Add SRT and WebVTT examples, including short-form captions.
+- [x] Add quality-control and delivery checklists.
+- [x] Add a Python validator for SRT/WebVTT structure and timing conflicts.
+- [x] Add unit tests and a GitHub Actions workflow.
+- [x] Define starter service packages and scope boundaries.
 
-## Phase 2 — Improve sample quality
-- [ ] Validate SRT and WebVTT cue structure and timing format.
+## Phase 2 — Portfolio-ready evidence
+- [ ] Select a public-domain or client-authorized short recording.
+- [ ] Produce a transcript and caption files by reviewing the actual audio/video.
+- [ ] Verify wording, speakers, timing, and caption line breaks against the media.
 - [ ] Add a sample delivery folder with consistent filenames and a delivery note.
-- [ ] Create one polished sample bundle using a permitted source recording.
+- [ ] Capture portfolio images only from permitted materials.
 
-## Phase 3 — Service readiness
-- [ ] Define simple service packages and clear scope boundaries.
-- [ ] Specify how unclear audio, multiple speakers, and technical vocabulary are handled.
-- [ ] Document revision limits and client approval steps.
-- [ ] Prepare portfolio screenshots and a sample deliverables bundle.
-
-## Completion standard
-
-A deliverable must match the agreed brief, be reviewed against the source recording, use the requested format, and clearly flag unresolved uncertainty. Fictional examples must remain labeled as demonstrations.
+## Scope guardrails
+- Never invent unclear words or claim a fictional sample was transcribed from real media.
+- Never publish a client recording or transcript without permission.
+- A validator checks structure, not speech accuracy or synchronization.
+- Do not promise perfect accuracy or certified legal/medical transcription.

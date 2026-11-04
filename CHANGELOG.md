@@ -22,3 +22,9 @@
 
 ## 0.1.0 — Initial foundation
 - Added project scope, quality principles, templates, fictional transcript and caption examples, and a quality-control checklist.
+
+## 0.5.0 — Documentation synchronization — 2026-11-03
+
+- Refreshed README and roadmap to reflect the current templates, caption validator, tests, and synthetic-voice demonstration.
+- Reaffirmed that the known-script demo is not evidence of blind transcription accuracy on naturally recorded media.
+- Clarified the real-media verification and marketplace launch tasks.

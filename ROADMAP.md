@@ -31,3 +31,11 @@
 - Never publish a client recording or transcript without permission.
 - A validator checks structure, not speech accuracy or synchronization.
 - Do not promise perfect accuracy or certified legal/medical transcription.
+
+---
+
+Review date: 2026-11-03
+
+## Current direction — 2026-11-03
+
+**Usable service MVP · Real-media evidence still required.** The next critical milestone is a naturally spoken public-domain or explicitly authorized recording, transcribed and checked against the actual media for wording, speakers, timing, and caption line breaks. Package the verified sample with consistent filenames and a delivery note before publishing marketplace listings. The known-script synthetic-voice sample must remain labeled as a workflow demonstration, not transcription accuracy evidence.

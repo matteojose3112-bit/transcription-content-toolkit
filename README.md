@@ -53,3 +53,7 @@ The current repository examples are fictional formatting demonstrations. The sep
 ## Quality checks
 
 Automated tests run through GitHub Actions on pushes and pull requests. See the [test workflow](.github/workflows/test.yml).
+
+## Documentation review — 2026-11-03
+
+Documentation review — 2026-11-03: The usable service MVP includes transcript/caption templates, fictional examples, a Python SRT/WebVTT structural validator, tests, and a known-script synthetic-voice demonstration. It does not yet demonstrate blind transcription accuracy on naturally recorded media. A verified real-media sample and marketplace publication remain open.
